@@ -37,3 +37,8 @@ header nav ul li{
     margin: 0 10px;
 }
 
+footer{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(10, 84, 169, 0.665);
+}
